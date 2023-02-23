@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cover{
+    height: 70px;
+    width: 100%;
+    border: 1px solid yellow;
+    margin: 10px solid rgb(152, 152, 4);
+    text-align: center;
+    background-color: rgb(146, 234, 217);
+}
+h1{
+    color: rgb(109, 5, 5);
+}
+h3{
+    color: rgb(142, 156, 11);
+}
+.container{
+    height: 200px;
+    width: 100%;
+    border: 1px solid yellow;
+    margin: 10px solid rgb(152, 152, 4);
+}
+.header{
+    height: 40px;
+    width: 100%;
+    background-color: aqua;
+}
+.day{
+    height: 20px;
+    width: 13%;
+    border: 3px solid wheat;
+    float: left;
+    overflow: hidden;
+    background-color: rgb(15, 231, 159);
+    text-align: center;
+    color: rgb(40, 75, 6);
+}
+.fri{
+    background-color: rgb(17, 169, 118);
+}
+.num{
+    height: 20px;
+    width: 13%;
+    border: 3px solid wheat;
+    float: left;
+    overflow: hidden;
+    background-color: aquamarine;
+    text-align: center;
+}
+.bold{
+    background-color: rgb(16, 209, 144);
+}
+.jan1{
+    background-color: rgb(16, 209, 144);
+}
+
